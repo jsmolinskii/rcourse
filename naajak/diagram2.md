@@ -22,7 +22,7 @@ sequenceDiagram
 
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate server
-    server-->>browser:
+    server-->>browser: the JavaScript file
     deactivate server
 
     browser->>server: GET https://studies.cs.helsinki.fi/favicon.ico
