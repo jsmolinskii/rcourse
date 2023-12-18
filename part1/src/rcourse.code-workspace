@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../testy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rcourse"
+	}
+}
